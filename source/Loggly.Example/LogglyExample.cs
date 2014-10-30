@@ -15,7 +15,7 @@ namespace Loggly.Example
         public void SendPlainMessage()
         {
             var logEvent = new LogglyEvent();
-            logEvent.Data.Add("message", "Simple message at {0} using {1}", DateTime.Now, LogglyConfig.Instance.Transport.LogTransport);
+            logEvent.Data.Add("message", "Simple message FROM TEST APPLICATION at {0} using {1}", DateTime.Now, LogglyConfig.Instance.Transport.LogTransport);
             _loggly.Log(logEvent);
         }
 

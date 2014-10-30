@@ -44,16 +44,17 @@ namespace Loggly.Tests.Loggly.ExtensionMethods
         [Test]
         public void DamienTest()
         {
+            // Check out in Fiddler... this isn't actually working. Appears to be sending on HTTP (not https)
             LogglyConfig.Instance.Transport.LogTransport = LogTransport.Https;
             LogglyConfig.Instance.Transport.EndpointHostname = @"logs-01.loggly.com";
             LogglyConfig.Instance.ThrowExceptions = true;
             LogglyConfig.Instance.ApplicationName = "dnstest";
-            //LogglyConfig.Instance.Transport.EndpointPort = 443;
+            LogglyConfig.Instance.Transport.EndpointPort = 443;
             
             LogglyConfig.Instance.CustomerToken = "89ba7ea0-89df-4a37-9a54-35c97772954d";
             
             var _loggly = new LogglyClient();
-            for (int i = 0; i < 1000; i++)
+            for (int i = 0; i < 10; i++)
             {
                 var logEvent = new LogglyEvent();
                 logEvent.Data.Add("message", "Test Simple message {0} at {1}", i, DateTime.Now);
