@@ -1,9 +1,5 @@
 TestResult.xml
 Tests.VisualState.xml
-[Bb]in
-[Oo]bj
-[Rr]elease
-[Dd]ebug
 *.bak
 *.manifest
 *.dll
@@ -21,3 +17,4 @@ packages/
 source/Loggly.Example/loggly.user.config
 SolutionItems/Thumbs.db
 *.nupkg
+

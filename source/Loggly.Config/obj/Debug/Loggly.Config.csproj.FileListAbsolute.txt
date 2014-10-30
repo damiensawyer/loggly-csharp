@@ -1,0 +1,5 @@
+E:\Do Not Backup\Code\loggly-csharp\source\loggly.Config\bin\Debug\Loggly.Config.dll
+E:\Do Not Backup\Code\loggly-csharp\source\loggly.Config\bin\Debug\Loggly.Config.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\loggly.Config\obj\Debug\Loggly.Config.csprojResolveAssemblyReference.cache
+E:\Do Not Backup\Code\loggly-csharp\source\loggly.Config\obj\Debug\Loggly.Config.dll
+E:\Do Not Backup\Code\loggly-csharp\source\loggly.Config\obj\Debug\Loggly.Config.pdb

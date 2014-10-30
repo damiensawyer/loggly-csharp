@@ -1,0 +1,9 @@
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly\bin\Debug\Loggly.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly\bin\Debug\Loggly.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly\bin\Debug\Loggly.Config.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly\bin\Debug\Newtonsoft.Json.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly\bin\Debug\Loggly.Config.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly\bin\Debug\Newtonsoft.Json.xml
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly\obj\Debug\Loggly.csprojResolveAssemblyReference.cache
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly\obj\Debug\Loggly.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly\obj\Debug\Loggly.pdb

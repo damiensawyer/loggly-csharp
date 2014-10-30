@@ -1,0 +1,17 @@
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\example.loggly.user.config
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\loggly.user.config
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\Loggly.Example.exe.config
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\Loggly.Example.exe
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\Loggly.Example.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\Loggly.Config.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\Loggly.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\Newtonsoft.Json.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\Loggly.Config.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\Loggly.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\bin\Debug\Newtonsoft.Json.xml
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\obj\Debug\Loggly.Example.csprojResolveAssemblyReference.cache
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\obj\Debug\Loggly.Example.MainForm.resources
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\obj\Debug\Loggly.Example.Properties.Resources.resources
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\obj\Debug\Loggly.Example.csproj.GenerateResource.Cache
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\obj\Debug\Loggly.Example.exe
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Example\obj\Debug\Loggly.Example.pdb

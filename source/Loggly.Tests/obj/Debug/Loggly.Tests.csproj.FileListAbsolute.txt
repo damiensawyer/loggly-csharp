@@ -1,0 +1,13 @@
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\bin\Debug\Loggly.Tests.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\bin\Debug\Loggly.Tests.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\bin\Debug\Loggly.Config.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\bin\Debug\Loggly.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\bin\Debug\nunit.framework.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\bin\Debug\Loggly.Config.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\bin\Debug\Loggly.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\bin\Debug\nunit.framework.xml
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\obj\Debug\Loggly.Tests.csprojResolveAssemblyReference.cache
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\obj\Debug\Loggly.Tests.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests\obj\Debug\Loggly.Tests.pdb

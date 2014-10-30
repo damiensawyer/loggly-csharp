@@ -1,0 +1,14 @@
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\Loggly.Tests.Integration.dll.config
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\Loggly.Tests.Integration.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\Loggly.Tests.Integration.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\Loggly.Config.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\Loggly.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\Newtonsoft.Json.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\nunit.framework.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\Loggly.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\Loggly.Config.pdb
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\Newtonsoft.Json.xml
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\bin\Debug\nunit.framework.xml
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\obj\Debug\Loggly.Tests.Integration.csprojResolveAssemblyReference.cache
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\obj\Debug\Loggly.Tests.Integration.dll
+E:\Do Not Backup\Code\loggly-csharp\source\Loggly.Tests.Integration\obj\Debug\Loggly.Tests.Integration.pdb
