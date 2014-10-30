@@ -11,7 +11,6 @@ using Newtonsoft.Json;
 
 namespace Loggly
 {
-
     public class LogglyClient : ILogglyClient
     {
         public void Log(LogglyEvent logglyEvent)
